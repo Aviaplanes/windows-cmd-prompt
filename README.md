@@ -31,4 +31,6 @@ reg add "HKCU\Software\Microsoft\Command Processor" /v AutoRun /t REG_SZ /d "pro
 ```
 
 **Default**
+```cmd
 reg delete "HKCU\Software\Microsoft\Command Processor" /v AutoRun /f
+```
