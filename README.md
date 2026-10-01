@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="demo.png" alt="demo">
+  <img src="blue.png" alt="demo">
 </p>
 
 ```cmd
